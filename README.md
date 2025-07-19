@@ -1,5 +1,5 @@
 # Hi, I'm Luiza 💫
-🧠​ Computer science student at UFRGS<br>🔭 I’m currently working on desktop apps to practice outside of university<br>🌱 I’m currently learning JavaScript, Python, Kotlin and Java<br>⚡ I work with AI development in my internship program and was part of the IT Academy #21
+🧠​ Computer science student at UFRGS<br>🔭 I’m currently working on desktop apps to practice outside of university<br>🌱 I’m currently learning Python, Kotlin and Java<br>⚡ I work with AI development in my internship program and was part of the IT Academy #21
 
 
 ## 🌐 Socials:
