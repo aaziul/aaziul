@@ -1,5 +1,5 @@
 # Hi, I'm Luiza 💫
-🧠​ Computer science student at UFRGS<br>🔭 I’m currently working on desktop apps and discord bots to practice outside of university<br>🌱 I’m currently learning Python, C# and JavaScript<br>⚡ IT Academy #21
+🧠​ Computer science student at UFRGS<br>🔭 I’m currently working on desktop apps and discord bots to practice outside of university<br>🌱 I’m currently learning Python, C++ and JavaScript<br>⚡ IT Academy #21
 
 
 ## 🌐 Socials:
